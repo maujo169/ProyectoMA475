@@ -96,16 +96,10 @@ namespace ProyectoMA475
                 }
 
             if (op == 0)
-            {
                 for (int i = 0; i < 256; i++)
-                {
                     for (int j = 0; j < ancho * alto; j++)
                         if (pixels[j].nivelGris == i)
-                        {
                             pixels[j].cantPixelNivel = histograma[0, i];
-                        }
-                }
-            }
 
             return histograma;
         }

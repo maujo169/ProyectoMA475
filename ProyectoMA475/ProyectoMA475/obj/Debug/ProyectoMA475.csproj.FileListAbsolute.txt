@@ -55,3 +55,15 @@ C:\Users\mauri\Desktop\github\maujo169\TP - ProyectoMA475\ProyectoMA475\Proyecto
 C:\Users\mauri\Desktop\github\maujo169\TP - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.csproj.CoreCompileInputs.cache
 C:\Users\mauri\Desktop\github\maujo169\TP - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.exe
 C:\Users\mauri\Desktop\github\maujo169\TP - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.pdb
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\bin\Debug\ProyectoMA475.exe.config
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\bin\Debug\ProyectoMA475.exe
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\bin\Debug\ProyectoMA475.pdb
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.csprojAssemblyReference.cache
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.Caratula.resources
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.FRM_Cambios.resources
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.FRM_Main.resources
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.Properties.Resources.resources
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.csproj.GenerateResource.cache
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.csproj.CoreCompileInputs.cache
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.exe
+C:\Users\mauri\3D Objects\ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Debug\ProyectoMA475.pdb
