@@ -1,0 +1,12 @@
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\bin\Release\ProyectoMA475.exe.config
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\bin\Release\ProyectoMA475.exe
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\bin\Release\ProyectoMA475.pdb
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Release\ProyectoMA475.csprojAssemblyReference.cache
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Release\ProyectoMA475.Caratula.resources
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Release\ProyectoMA475.FRM_Cambios.resources
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Release\ProyectoMA475.FRM_Main.resources
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Release\ProyectoMA475.Properties.Resources.resources
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Release\ProyectoMA475.csproj.GenerateResource.cache
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Release\ProyectoMA475.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Release\ProyectoMA475.exe
+C:\Users\mauri\Desktop\github\maujo169\TF - ProyectoMA475\ProyectoMA475\ProyectoMA475\obj\Release\ProyectoMA475.pdb
