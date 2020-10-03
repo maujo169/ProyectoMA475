@@ -154,30 +154,23 @@ namespace ProyectoMA475
                 histogramaFinal.Add(new List<Pixel>());
             }
 
-            int[] expandido = new int[256];
-
             float m = (y2 - y1) / (x2 - x1);
             float b = y1 - (m * x1);
             float Tr, r;
 
             for (int i = 0; i < 256; i++)
-            {
                 if (histograma[0, i] != 0)
                 {
                     r = i; // Posicion antigua 
                     Tr = (m * r) + b; // Posicion nueva
-                    expandido[Convert.ToInt32(Tr)] = histograma[0, Convert.ToInt32(r)];
                     histogramaFinal[Convert.ToInt32(Tr)] = histogramaInicial[Convert.ToInt32(r)];
                 }
-            }
 
             int cont = 0;
             foreach (var n in histogramaFinal)
             {
                 foreach (var l in n)
-                {
                     bit.SetPixel(l.x, l.y, Color.FromArgb(cont, cont, cont));
-                }
                 cont++;
             }
 
