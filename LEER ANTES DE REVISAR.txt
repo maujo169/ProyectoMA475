@@ -1,6 +1,6 @@
 Para usar el programa debe instalarlo primero, en la carpeta "Instalador" hay un archivo de extensión '.exe'. 
-Si hace click en el archivo "setup.exe" sigue los pasos del instalador y ya tendria el programa en su PC, en el escritorio.
+Si hace click en el archivo "setup.exe" y sigue los pasos del instalador, ya tendria el programa en su PC (en el escritorio).
 
-Si desea revisar el código siga la siguiente ruta: 'ProyectoMA475/ProyectoMA475' dentro de esta carpeta se encuentra el codigo fuente.
+Si desea revisar el código siga la siguiente ruta: 'ProyectoMA475/ProyectoMA475' dentro de esta carpeta se encuentra el codigo fuente. Otra opcion es revisar el repositorio en github aqui el enlace: https://github.com/maujo169/ProyectoMA475/tree/main/ProyectoMA475/ProyectoMA475
 
 Para usar la función de expandir en el programa se recomienda usar las imagenes de prueba que se enviaron, estas se encuentran en la siguiente ruta: 'ProyectoMA475/Imagenes de prueba/paraExpansion'.
